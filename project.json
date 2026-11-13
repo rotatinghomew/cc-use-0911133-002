@@ -1,0 +1,8 @@
+{
+  "package": "registry_delta_hub",
+  "tests": "tests/registry_batches",
+  "entrypoint": "registry_delta_hub.console.run",
+  "fixture_prefix": [],
+  "database_flag": "--db",
+  "analysis_fixture": "fixtures/rate_bridge.json"
+}

@@ -1,0 +1,325 @@
+{
+  "schema_version": 1,
+  "records": [
+    {
+      "event_id": "r-p-2024-18-59-0",
+      "subject_id": "p-2024-18-59-0",
+      "source_system": "station-A",
+      "revision": 1,
+      "event_date": "2024-06-01",
+      "known_at": "2024-06-02",
+      "region": "old-zone",
+      "age_band": "18-59",
+      "code": "C1",
+      "status": "active"
+    },
+    {
+      "event_id": "r-p-2024-18-59-1",
+      "subject_id": "p-2024-18-59-1",
+      "source_system": "station-A",
+      "revision": 1,
+      "event_date": "2024-06-01",
+      "known_at": "2024-06-02",
+      "region": "old-zone",
+      "age_band": "18-59",
+      "code": "C1",
+      "status": "active"
+    },
+    {
+      "event_id": "r-p-2024-60+-0",
+      "subject_id": "p-2024-60+-0",
+      "source_system": "station-A",
+      "revision": 1,
+      "event_date": "2024-06-01",
+      "known_at": "2024-06-02",
+      "region": "old-zone",
+      "age_band": "60+",
+      "code": "C1",
+      "status": "active"
+    },
+    {
+      "event_id": "r-p-2024-60+-1",
+      "subject_id": "p-2024-60+-1",
+      "source_system": "station-A",
+      "revision": 1,
+      "event_date": "2024-06-01",
+      "known_at": "2024-06-02",
+      "region": "old-zone",
+      "age_band": "60+",
+      "code": "C1",
+      "status": "active"
+    },
+    {
+      "event_id": "r-p-2024-60+-2",
+      "subject_id": "p-2024-60+-2",
+      "source_system": "station-A",
+      "revision": 1,
+      "event_date": "2024-06-01",
+      "known_at": "2024-06-02",
+      "region": "old-zone",
+      "age_band": "60+",
+      "code": "C1",
+      "status": "active"
+    },
+    {
+      "event_id": "r-p-2024-60+-3",
+      "subject_id": "p-2024-60+-3",
+      "source_system": "station-A",
+      "revision": 1,
+      "event_date": "2024-06-01",
+      "known_at": "2024-06-02",
+      "region": "old-zone",
+      "age_band": "60+",
+      "code": "C1",
+      "status": "active"
+    },
+    {
+      "event_id": "r-p-2025-18-59-0",
+      "subject_id": "p-2025-18-59-0",
+      "source_system": "station-A",
+      "revision": 1,
+      "event_date": "2025-06-01",
+      "known_at": "2025-06-02",
+      "region": "old-zone",
+      "age_band": "18-59",
+      "code": "N1",
+      "status": "active"
+    },
+    {
+      "event_id": "r-p-2025-60+-0",
+      "subject_id": "p-2025-60+-0",
+      "source_system": "station-A",
+      "revision": 1,
+      "event_date": "2025-06-01",
+      "known_at": "2025-06-02",
+      "region": "old-zone",
+      "age_band": "60+",
+      "code": "N1",
+      "status": "active"
+    },
+    {
+      "event_id": "r-p-2025-60+-1",
+      "subject_id": "p-2025-60+-1",
+      "source_system": "station-A",
+      "revision": 1,
+      "event_date": "2025-06-01",
+      "known_at": "2025-06-02",
+      "region": "old-zone",
+      "age_band": "60+",
+      "code": "N1",
+      "status": "active"
+    },
+    {
+      "event_id": "r-p-2025-60+-2",
+      "subject_id": "p-2025-60+-2",
+      "source_system": "station-A",
+      "revision": 1,
+      "event_date": "2025-06-01",
+      "known_at": "2025-06-02",
+      "region": "old-zone",
+      "age_band": "60+",
+      "code": "N1",
+      "status": "active"
+    },
+    {
+      "event_id": "r-p-2025-60+-3",
+      "subject_id": "p-2025-60+-3",
+      "source_system": "station-A",
+      "revision": 1,
+      "event_date": "2025-06-01",
+      "known_at": "2025-06-02",
+      "region": "old-zone",
+      "age_band": "60+",
+      "code": "N1",
+      "status": "active"
+    },
+    {
+      "event_id": "r-p-2025-60+-4",
+      "subject_id": "p-2025-60+-4",
+      "source_system": "station-A",
+      "revision": 1,
+      "event_date": "2025-06-01",
+      "known_at": "2025-06-02",
+      "region": "old-zone",
+      "age_band": "60+",
+      "code": "N1",
+      "status": "active"
+    },
+    {
+      "event_id": "r-p-2025-60+-5",
+      "subject_id": "p-2025-60+-5",
+      "source_system": "station-A",
+      "revision": 1,
+      "event_date": "2025-06-01",
+      "known_at": "2025-06-02",
+      "region": "old-zone",
+      "age_band": "60+",
+      "code": "N1",
+      "status": "active"
+    },
+    {
+      "event_id": "r-p-2025-60+-6",
+      "subject_id": "p-2025-60+-6",
+      "source_system": "station-A",
+      "revision": 1,
+      "event_date": "2025-06-01",
+      "known_at": "2025-06-02",
+      "region": "old-zone",
+      "age_band": "60+",
+      "code": "N1",
+      "status": "active"
+    },
+    {
+      "event_id": "r-p-2025-60+-7",
+      "subject_id": "p-2025-60+-7",
+      "source_system": "station-A",
+      "revision": 1,
+      "event_date": "2025-06-01",
+      "known_at": "2025-06-02",
+      "region": "old-zone",
+      "age_band": "60+",
+      "code": "N1",
+      "status": "active"
+    },
+    {
+      "event_id": "duplicate-source",
+      "subject_id": "alias-p0",
+      "source_system": "station-B",
+      "revision": 1,
+      "event_date": "2024-06-01",
+      "known_at": "2024-06-02",
+      "region": "old-zone",
+      "age_band": "18-59",
+      "code": "C1",
+      "status": "active"
+    },
+    {
+      "event_id": "late-correction",
+      "subject_id": "p-2024-18-59-1",
+      "source_system": "station-A",
+      "revision": 2,
+      "event_date": "2024-06-01",
+      "known_at": "2026-02-01",
+      "region": "old-zone",
+      "age_band": "18-59",
+      "code": "C1",
+      "status": "withdrawn"
+    },
+    {
+      "event_id": "ambiguous-new-code",
+      "subject_id": "ambiguous-p",
+      "source_system": "station-A",
+      "revision": 1,
+      "event_date": "2025-07-01",
+      "known_at": "2025-07-02",
+      "region": "new-east",
+      "age_band": "60+",
+      "code": "N-mixed",
+      "status": "active"
+    }
+  ],
+  "identity_links": [
+    {
+      "alias": "alias-p0",
+      "canonical": "p-2024-18-59-0"
+    }
+  ],
+  "exposures": [
+    {
+      "year": 2024,
+      "region": "old-zone",
+      "age_band": "18-59",
+      "start": "2024-01-01",
+      "end_exclusive": "2025-01-01",
+      "person_years": 80
+    },
+    {
+      "year": 2024,
+      "region": "old-zone",
+      "age_band": "60+",
+      "start": "2024-01-01",
+      "end_exclusive": "2025-01-01",
+      "person_years": 20
+    },
+    {
+      "year": 2025,
+      "region": "old-zone",
+      "age_band": "18-59",
+      "start": "2025-01-01",
+      "end_exclusive": "2026-01-01",
+      "person_years": 40
+    },
+    {
+      "year": 2025,
+      "region": "old-zone",
+      "age_band": "60+",
+      "start": "2025-01-01",
+      "end_exclusive": "2026-01-01",
+      "person_years": 40
+    }
+  ],
+  "standard_population": {
+    "18-59": 0.5,
+    "60+": 0.5
+  },
+  "region_bridges": [
+    {
+      "from": "old-zone",
+      "to": "combined-zone",
+      "valid_from": "2024-01-01",
+      "weight": 1
+    },
+    {
+      "from": "new-east",
+      "to": "combined-zone",
+      "valid_from": "2025-01-01",
+      "weight": 1
+    }
+  ],
+  "coding_bridges": [
+    {
+      "from": "C1",
+      "targets": [
+        "common"
+      ],
+      "effective_from": "2024-01-01",
+      "known_at": "2024-01-01"
+    },
+    {
+      "from": "N1",
+      "targets": [
+        "common"
+      ],
+      "effective_from": "2025-01-01",
+      "known_at": "2025-01-01"
+    },
+    {
+      "from": "N-mixed",
+      "targets": [
+        "common",
+        "outside"
+      ],
+      "effective_from": "2025-01-01",
+      "known_at": "2025-01-01"
+    }
+  ],
+  "migration_segments": [
+    {
+      "subject_id": "ambiguous-p",
+      "region": "new-east",
+      "start": "2025-07-01",
+      "end_exclusive": "2026-01-01",
+      "person_years": 0.5
+    }
+  ],
+  "releases": [
+    {
+      "name": "published-2025",
+      "known_through": "2025-12-31"
+    },
+    {
+      "name": "restated",
+      "known_through": "2026-03-01"
+    }
+  ]
+}
