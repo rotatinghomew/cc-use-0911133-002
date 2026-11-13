@@ -23,4 +23,4 @@ python3 scripts/check_project.py
 
 `check_project.py` 串行执行测试、编译和真实业务入口，将本次业务输出完整打印到终端；状态文件使用独立临时目录，重复运行不沿用上次状态。
 
-批量分析资料位于 `fixtures/rate_bridge.json`，字段含义见 `docs/data.md`。它与当前单笔流程的输入格式不同，不能直接交给原来的入口处理。
+批量分析资料位于 `fixtures/completeness.json`，字段含义见 `docs/data.md`。它与当前单笔流程的输入格式不同，不能直接交给原来的入口处理。

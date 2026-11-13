@@ -1,0 +1,1804 @@
+{
+  "schema_version": 1,
+  "seed": 37,
+  "sources": [
+    "hotline",
+    "community",
+    "mobile",
+    "partner"
+  ],
+  "records": [
+    {
+      "observation_id": "obs-0-hotline",
+      "subject_id": "subject-000",
+      "source_system": "hotline",
+      "region": "mountain",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-1-community",
+      "subject_id": "subject-001",
+      "source_system": "community",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-1-mobile",
+      "subject_id": "subject-001",
+      "source_system": "mobile",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-1-partner",
+      "subject_id": "subject-001",
+      "source_system": "partner",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-2-community",
+      "subject_id": "subject-002",
+      "source_system": "community",
+      "region": "town",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-2-partner",
+      "subject_id": "subject-002",
+      "source_system": "partner",
+      "region": "town",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-3-community",
+      "subject_id": "subject-003",
+      "source_system": "community",
+      "region": "mountain",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-4-community",
+      "subject_id": "subject-004",
+      "source_system": "community",
+      "region": "town",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-4-partner",
+      "subject_id": "subject-004",
+      "source_system": "partner",
+      "region": "town",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-5-hotline",
+      "subject_id": "subject-005",
+      "source_system": "hotline",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-5-mobile",
+      "subject_id": "subject-005",
+      "source_system": "mobile",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-5-partner",
+      "subject_id": "subject-005",
+      "source_system": "partner",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-6-community",
+      "subject_id": "subject-006",
+      "source_system": "community",
+      "region": "mountain",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-7-community",
+      "subject_id": "subject-007",
+      "source_system": "community",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-7-hotline",
+      "subject_id": "subject-007",
+      "source_system": "hotline",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-7-mobile",
+      "subject_id": "subject-007",
+      "source_system": "mobile",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-7-partner",
+      "subject_id": "subject-007",
+      "source_system": "partner",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-8-community",
+      "subject_id": "subject-008",
+      "source_system": "community",
+      "region": "town",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-8-partner",
+      "subject_id": "subject-008",
+      "source_system": "partner",
+      "region": "town",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-9-community",
+      "subject_id": "subject-009",
+      "source_system": "community",
+      "region": "mountain",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-10-hotline",
+      "subject_id": "subject-010",
+      "source_system": "hotline",
+      "region": "town",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-10-partner",
+      "subject_id": "subject-010",
+      "source_system": "partner",
+      "region": "town",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-11-community",
+      "subject_id": "subject-011",
+      "source_system": "community",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-11-mobile",
+      "subject_id": "subject-011",
+      "source_system": "mobile",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-11-partner",
+      "subject_id": "subject-011",
+      "source_system": "partner",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-12-community",
+      "subject_id": "subject-012",
+      "source_system": "community",
+      "region": "mountain",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-13-community",
+      "subject_id": "subject-013",
+      "source_system": "community",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-13-mobile",
+      "subject_id": "subject-013",
+      "source_system": "mobile",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-13-partner",
+      "subject_id": "subject-013",
+      "source_system": "partner",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-14-community",
+      "subject_id": "subject-014",
+      "source_system": "community",
+      "region": "town",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-14-hotline",
+      "subject_id": "subject-014",
+      "source_system": "hotline",
+      "region": "town",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-14-partner",
+      "subject_id": "subject-014",
+      "source_system": "partner",
+      "region": "town",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-15-hotline",
+      "subject_id": "subject-015",
+      "source_system": "hotline",
+      "region": "mountain",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-16-community",
+      "subject_id": "subject-016",
+      "source_system": "community",
+      "region": "town",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-16-partner",
+      "subject_id": "subject-016",
+      "source_system": "partner",
+      "region": "town",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-17-community",
+      "subject_id": "subject-017",
+      "source_system": "community",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-17-mobile",
+      "subject_id": "subject-017",
+      "source_system": "mobile",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-17-partner",
+      "subject_id": "subject-017",
+      "source_system": "partner",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-18-community",
+      "subject_id": "subject-018",
+      "source_system": "community",
+      "region": "mountain",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-19-community",
+      "subject_id": "subject-019",
+      "source_system": "community",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-19-mobile",
+      "subject_id": "subject-019",
+      "source_system": "mobile",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-19-partner",
+      "subject_id": "subject-019",
+      "source_system": "partner",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-20-hotline",
+      "subject_id": "subject-020",
+      "source_system": "hotline",
+      "region": "town",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-20-partner",
+      "subject_id": "subject-020",
+      "source_system": "partner",
+      "region": "town",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-21-community",
+      "subject_id": "subject-021",
+      "source_system": "community",
+      "region": "mountain",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-21-hotline",
+      "subject_id": "subject-021",
+      "source_system": "hotline",
+      "region": "mountain",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-22-community",
+      "subject_id": "subject-022",
+      "source_system": "community",
+      "region": "town",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-22-partner",
+      "subject_id": "subject-022",
+      "source_system": "partner",
+      "region": "town",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-23-community",
+      "subject_id": "subject-023",
+      "source_system": "community",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-23-mobile",
+      "subject_id": "subject-023",
+      "source_system": "mobile",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-23-partner",
+      "subject_id": "subject-023",
+      "source_system": "partner",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-24-community",
+      "subject_id": "subject-024",
+      "source_system": "community",
+      "region": "mountain",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-25-hotline",
+      "subject_id": "subject-025",
+      "source_system": "hotline",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-25-mobile",
+      "subject_id": "subject-025",
+      "source_system": "mobile",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-25-partner",
+      "subject_id": "subject-025",
+      "source_system": "partner",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-26-community",
+      "subject_id": "subject-026",
+      "source_system": "community",
+      "region": "town",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-26-partner",
+      "subject_id": "subject-026",
+      "source_system": "partner",
+      "region": "town",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-27-community",
+      "subject_id": "subject-027",
+      "source_system": "community",
+      "region": "mountain",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-28-community",
+      "subject_id": "subject-028",
+      "source_system": "community",
+      "region": "town",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-28-hotline",
+      "subject_id": "subject-028",
+      "source_system": "hotline",
+      "region": "town",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-28-partner",
+      "subject_id": "subject-028",
+      "source_system": "partner",
+      "region": "town",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-29-community",
+      "subject_id": "subject-029",
+      "source_system": "community",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-29-mobile",
+      "subject_id": "subject-029",
+      "source_system": "mobile",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-29-partner",
+      "subject_id": "subject-029",
+      "source_system": "partner",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-30-hotline",
+      "subject_id": "subject-030",
+      "source_system": "hotline",
+      "region": "mountain",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-31-community",
+      "subject_id": "subject-031",
+      "source_system": "community",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-31-mobile",
+      "subject_id": "subject-031",
+      "source_system": "mobile",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-31-partner",
+      "subject_id": "subject-031",
+      "source_system": "partner",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-32-community",
+      "subject_id": "subject-032",
+      "source_system": "community",
+      "region": "town",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-32-partner",
+      "subject_id": "subject-032",
+      "source_system": "partner",
+      "region": "town",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-33-community",
+      "subject_id": "subject-033",
+      "source_system": "community",
+      "region": "mountain",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-34-community",
+      "subject_id": "subject-034",
+      "source_system": "community",
+      "region": "town",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-34-partner",
+      "subject_id": "subject-034",
+      "source_system": "partner",
+      "region": "town",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-35-hotline",
+      "subject_id": "subject-035",
+      "source_system": "hotline",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-35-mobile",
+      "subject_id": "subject-035",
+      "source_system": "mobile",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-35-partner",
+      "subject_id": "subject-035",
+      "source_system": "partner",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-36-community",
+      "subject_id": "subject-036",
+      "source_system": "community",
+      "region": "mountain",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-37-community",
+      "subject_id": "subject-037",
+      "source_system": "community",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-37-mobile",
+      "subject_id": "subject-037",
+      "source_system": "mobile",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-37-partner",
+      "subject_id": "subject-037",
+      "source_system": "partner",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-38-community",
+      "subject_id": "subject-038",
+      "source_system": "community",
+      "region": "town",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-38-partner",
+      "subject_id": "subject-038",
+      "source_system": "partner",
+      "region": "town",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-39-community",
+      "subject_id": "subject-039",
+      "source_system": "community",
+      "region": "mountain",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-40-hotline",
+      "subject_id": "subject-040",
+      "source_system": "hotline",
+      "region": "town",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-40-partner",
+      "subject_id": "subject-040",
+      "source_system": "partner",
+      "region": "town",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-41-community",
+      "subject_id": "subject-041",
+      "source_system": "community",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-41-mobile",
+      "subject_id": "subject-041",
+      "source_system": "mobile",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-41-partner",
+      "subject_id": "subject-041",
+      "source_system": "partner",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-42-community",
+      "subject_id": "subject-042",
+      "source_system": "community",
+      "region": "mountain",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-42-hotline",
+      "subject_id": "subject-042",
+      "source_system": "hotline",
+      "region": "mountain",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-43-community",
+      "subject_id": "subject-043",
+      "source_system": "community",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-43-mobile",
+      "subject_id": "subject-043",
+      "source_system": "mobile",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-43-partner",
+      "subject_id": "subject-043",
+      "source_system": "partner",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-44-community",
+      "subject_id": "subject-044",
+      "source_system": "community",
+      "region": "town",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-44-partner",
+      "subject_id": "subject-044",
+      "source_system": "partner",
+      "region": "town",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-45-hotline",
+      "subject_id": "subject-045",
+      "source_system": "hotline",
+      "region": "mountain",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-46-community",
+      "subject_id": "subject-046",
+      "source_system": "community",
+      "region": "town",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-46-partner",
+      "subject_id": "subject-046",
+      "source_system": "partner",
+      "region": "town",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-47-community",
+      "subject_id": "subject-047",
+      "source_system": "community",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-47-mobile",
+      "subject_id": "subject-047",
+      "source_system": "mobile",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-47-partner",
+      "subject_id": "subject-047",
+      "source_system": "partner",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-48-community",
+      "subject_id": "subject-048",
+      "source_system": "community",
+      "region": "mountain",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-49-community",
+      "subject_id": "subject-049",
+      "source_system": "community",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-49-hotline",
+      "subject_id": "subject-049",
+      "source_system": "hotline",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-49-mobile",
+      "subject_id": "subject-049",
+      "source_system": "mobile",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-49-partner",
+      "subject_id": "subject-049",
+      "source_system": "partner",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-50-hotline",
+      "subject_id": "subject-050",
+      "source_system": "hotline",
+      "region": "town",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-50-partner",
+      "subject_id": "subject-050",
+      "source_system": "partner",
+      "region": "town",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-51-community",
+      "subject_id": "subject-051",
+      "source_system": "community",
+      "region": "mountain",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-52-community",
+      "subject_id": "subject-052",
+      "source_system": "community",
+      "region": "town",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-52-partner",
+      "subject_id": "subject-052",
+      "source_system": "partner",
+      "region": "town",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-53-community",
+      "subject_id": "subject-053",
+      "source_system": "community",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-53-mobile",
+      "subject_id": "subject-053",
+      "source_system": "mobile",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-53-partner",
+      "subject_id": "subject-053",
+      "source_system": "partner",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-54-community",
+      "subject_id": "subject-054",
+      "source_system": "community",
+      "region": "mountain",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-55-hotline",
+      "subject_id": "subject-055",
+      "source_system": "hotline",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-55-mobile",
+      "subject_id": "subject-055",
+      "source_system": "mobile",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-55-partner",
+      "subject_id": "subject-055",
+      "source_system": "partner",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-56-community",
+      "subject_id": "subject-056",
+      "source_system": "community",
+      "region": "town",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-56-hotline",
+      "subject_id": "subject-056",
+      "source_system": "hotline",
+      "region": "town",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-56-partner",
+      "subject_id": "subject-056",
+      "source_system": "partner",
+      "region": "town",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-57-community",
+      "subject_id": "subject-057",
+      "source_system": "community",
+      "region": "mountain",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-58-community",
+      "subject_id": "subject-058",
+      "source_system": "community",
+      "region": "town",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-58-partner",
+      "subject_id": "subject-058",
+      "source_system": "partner",
+      "region": "town",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-59-community",
+      "subject_id": "subject-059",
+      "source_system": "community",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-59-mobile",
+      "subject_id": "subject-059",
+      "source_system": "mobile",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-59-partner",
+      "subject_id": "subject-059",
+      "source_system": "partner",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-60-hotline",
+      "subject_id": "subject-060",
+      "source_system": "hotline",
+      "region": "mountain",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-61-community",
+      "subject_id": "subject-061",
+      "source_system": "community",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-61-mobile",
+      "subject_id": "subject-061",
+      "source_system": "mobile",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-61-partner",
+      "subject_id": "subject-061",
+      "source_system": "partner",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-62-community",
+      "subject_id": "subject-062",
+      "source_system": "community",
+      "region": "town",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-62-partner",
+      "subject_id": "subject-062",
+      "source_system": "partner",
+      "region": "town",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-63-community",
+      "subject_id": "subject-063",
+      "source_system": "community",
+      "region": "mountain",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-63-hotline",
+      "subject_id": "subject-063",
+      "source_system": "hotline",
+      "region": "mountain",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-64-community",
+      "subject_id": "subject-064",
+      "source_system": "community",
+      "region": "town",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-64-partner",
+      "subject_id": "subject-064",
+      "source_system": "partner",
+      "region": "town",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-65-hotline",
+      "subject_id": "subject-065",
+      "source_system": "hotline",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-65-mobile",
+      "subject_id": "subject-065",
+      "source_system": "mobile",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-65-partner",
+      "subject_id": "subject-065",
+      "source_system": "partner",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-66-community",
+      "subject_id": "subject-066",
+      "source_system": "community",
+      "region": "mountain",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-67-community",
+      "subject_id": "subject-067",
+      "source_system": "community",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-67-mobile",
+      "subject_id": "subject-067",
+      "source_system": "mobile",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-67-partner",
+      "subject_id": "subject-067",
+      "source_system": "partner",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-68-community",
+      "subject_id": "subject-068",
+      "source_system": "community",
+      "region": "town",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-68-partner",
+      "subject_id": "subject-068",
+      "source_system": "partner",
+      "region": "town",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-69-community",
+      "subject_id": "subject-069",
+      "source_system": "community",
+      "region": "mountain",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-70-hotline",
+      "subject_id": "subject-070",
+      "source_system": "hotline",
+      "region": "town",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-70-partner",
+      "subject_id": "subject-070",
+      "source_system": "partner",
+      "region": "town",
+      "window": "spring",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-71-community",
+      "subject_id": "subject-071",
+      "source_system": "community",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-71-mobile",
+      "subject_id": "subject-071",
+      "source_system": "mobile",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-71-partner",
+      "subject_id": "subject-071",
+      "source_system": "partner",
+      "region": "town",
+      "window": "summer",
+      "revision": 1,
+      "status": "active"
+    },
+    {
+      "observation_id": "obs-0-hotline",
+      "subject_id": "subject-000",
+      "source_system": "hotline",
+      "region": "mountain",
+      "window": "spring",
+      "revision": 2,
+      "status": "withdrawn"
+    }
+  ],
+  "opportunities": [
+    {
+      "region": "mountain",
+      "window": "spring",
+      "source": "hotline",
+      "active": true
+    },
+    {
+      "region": "mountain",
+      "window": "spring",
+      "source": "community",
+      "active": true
+    },
+    {
+      "region": "mountain",
+      "window": "spring",
+      "source": "mobile",
+      "active": false
+    },
+    {
+      "region": "mountain",
+      "window": "spring",
+      "source": "partner",
+      "active": true
+    },
+    {
+      "region": "mountain",
+      "window": "summer",
+      "source": "hotline",
+      "active": true
+    },
+    {
+      "region": "mountain",
+      "window": "summer",
+      "source": "community",
+      "active": true
+    },
+    {
+      "region": "mountain",
+      "window": "summer",
+      "source": "mobile",
+      "active": false
+    },
+    {
+      "region": "mountain",
+      "window": "summer",
+      "source": "partner",
+      "active": true
+    },
+    {
+      "region": "town",
+      "window": "spring",
+      "source": "hotline",
+      "active": true
+    },
+    {
+      "region": "town",
+      "window": "spring",
+      "source": "community",
+      "active": true
+    },
+    {
+      "region": "town",
+      "window": "spring",
+      "source": "mobile",
+      "active": false
+    },
+    {
+      "region": "town",
+      "window": "spring",
+      "source": "partner",
+      "active": true
+    },
+    {
+      "region": "town",
+      "window": "summer",
+      "source": "hotline",
+      "active": true
+    },
+    {
+      "region": "town",
+      "window": "summer",
+      "source": "community",
+      "active": true
+    },
+    {
+      "region": "town",
+      "window": "summer",
+      "source": "mobile",
+      "active": true
+    },
+    {
+      "region": "town",
+      "window": "summer",
+      "source": "partner",
+      "active": true
+    }
+  ],
+  "source_relationships": [
+    {
+      "from": "community",
+      "to": "partner",
+      "kind": "possible-copy",
+      "confirmed": false
+    }
+  ],
+  "audit_frames": [
+    {
+      "frame_id": "frame-mountain-spring",
+      "region": "mountain",
+      "window": "spring",
+      "eligible_units": 50,
+      "sampling_unit": "service-recipient",
+      "version": 1
+    },
+    {
+      "frame_id": "frame-mountain-summer",
+      "region": "mountain",
+      "window": "summer",
+      "eligible_units": 50,
+      "sampling_unit": "service-recipient",
+      "version": 1
+    },
+    {
+      "frame_id": "frame-town-spring",
+      "region": "town",
+      "window": "spring",
+      "eligible_units": 100,
+      "sampling_unit": "service-recipient",
+      "version": 1
+    },
+    {
+      "frame_id": "frame-town-summer",
+      "region": "town",
+      "window": "summer",
+      "eligible_units": 100,
+      "sampling_unit": "service-recipient",
+      "version": 1
+    }
+  ],
+  "audits": [
+    {
+      "audit_id": "audit-0",
+      "frame_id": "frame-mountain-spring",
+      "selection_probability": 0.4,
+      "received_service": true,
+      "found_in_registry": false,
+      "review_revision": 1
+    },
+    {
+      "audit_id": "audit-1",
+      "frame_id": "frame-mountain-summer",
+      "selection_probability": 0.2,
+      "received_service": true,
+      "found_in_registry": true,
+      "review_revision": 1
+    },
+    {
+      "audit_id": "audit-2",
+      "frame_id": "frame-town-spring",
+      "selection_probability": 0.2,
+      "received_service": true,
+      "found_in_registry": true,
+      "review_revision": 1
+    },
+    {
+      "audit_id": "audit-3",
+      "frame_id": "frame-town-summer",
+      "selection_probability": 0.4,
+      "received_service": true,
+      "found_in_registry": true,
+      "review_revision": 1
+    },
+    {
+      "audit_id": "audit-4",
+      "frame_id": "frame-mountain-spring",
+      "selection_probability": 0.2,
+      "received_service": true,
+      "found_in_registry": false,
+      "review_revision": 1
+    },
+    {
+      "audit_id": "audit-5",
+      "frame_id": "frame-mountain-summer",
+      "selection_probability": 0.2,
+      "received_service": true,
+      "found_in_registry": true,
+      "review_revision": 1
+    },
+    {
+      "audit_id": "audit-6",
+      "frame_id": "frame-town-spring",
+      "selection_probability": 0.4,
+      "received_service": true,
+      "found_in_registry": true,
+      "review_revision": 1
+    },
+    {
+      "audit_id": "audit-7",
+      "frame_id": "frame-town-summer",
+      "selection_probability": 0.2,
+      "received_service": true,
+      "found_in_registry": true,
+      "review_revision": 1
+    },
+    {
+      "audit_id": "audit-8",
+      "frame_id": "frame-mountain-spring",
+      "selection_probability": 0.2,
+      "received_service": true,
+      "found_in_registry": false,
+      "review_revision": 1
+    },
+    {
+      "audit_id": "audit-9",
+      "frame_id": "frame-mountain-summer",
+      "selection_probability": 0.4,
+      "received_service": true,
+      "found_in_registry": true,
+      "review_revision": 1
+    },
+    {
+      "audit_id": "audit-10",
+      "frame_id": "frame-town-spring",
+      "selection_probability": 0.2,
+      "received_service": true,
+      "found_in_registry": true,
+      "review_revision": 1
+    },
+    {
+      "audit_id": "audit-11",
+      "frame_id": "frame-town-summer",
+      "selection_probability": 0.2,
+      "received_service": true,
+      "found_in_registry": true,
+      "review_revision": 1
+    },
+    {
+      "audit_id": "audit-12",
+      "frame_id": "frame-mountain-spring",
+      "selection_probability": 0.4,
+      "received_service": true,
+      "found_in_registry": false,
+      "review_revision": 1
+    },
+    {
+      "audit_id": "audit-13",
+      "frame_id": "frame-mountain-summer",
+      "selection_probability": 0.2,
+      "received_service": true,
+      "found_in_registry": true,
+      "review_revision": 1
+    },
+    {
+      "audit_id": "audit-14",
+      "frame_id": "frame-town-spring",
+      "selection_probability": 0.2,
+      "received_service": true,
+      "found_in_registry": true,
+      "review_revision": 1
+    },
+    {
+      "audit_id": "audit-15",
+      "frame_id": "frame-town-summer",
+      "selection_probability": 0.4,
+      "received_service": true,
+      "found_in_registry": true,
+      "review_revision": 1
+    },
+    {
+      "audit_id": "audit-16",
+      "frame_id": "frame-mountain-spring",
+      "selection_probability": 0.2,
+      "received_service": true,
+      "found_in_registry": false,
+      "review_revision": 1
+    },
+    {
+      "audit_id": "audit-17",
+      "frame_id": "frame-mountain-summer",
+      "selection_probability": 0.2,
+      "received_service": true,
+      "found_in_registry": true,
+      "review_revision": 1
+    },
+    {
+      "audit_id": "audit-18",
+      "frame_id": "frame-town-spring",
+      "selection_probability": 0.4,
+      "received_service": true,
+      "found_in_registry": true,
+      "review_revision": 1
+    },
+    {
+      "audit_id": "audit-19",
+      "frame_id": "frame-town-summer",
+      "selection_probability": 0.2,
+      "received_service": true,
+      "found_in_registry": true,
+      "review_revision": 1
+    },
+    {
+      "audit_id": "audit-20",
+      "frame_id": "frame-mountain-spring",
+      "selection_probability": 0.2,
+      "received_service": true,
+      "found_in_registry": false,
+      "review_revision": 1
+    },
+    {
+      "audit_id": "audit-21",
+      "frame_id": "frame-mountain-summer",
+      "selection_probability": 0.4,
+      "received_service": true,
+      "found_in_registry": true,
+      "review_revision": 1
+    },
+    {
+      "audit_id": "audit-22",
+      "frame_id": "frame-town-spring",
+      "selection_probability": 0.2,
+      "received_service": true,
+      "found_in_registry": true,
+      "review_revision": 1
+    },
+    {
+      "audit_id": "audit-23",
+      "frame_id": "frame-town-summer",
+      "selection_probability": 0.2,
+      "received_service": true,
+      "found_in_registry": true,
+      "review_revision": 1
+    },
+    {
+      "audit_id": "audit-24",
+      "frame_id": "frame-mountain-spring",
+      "selection_probability": 0.4,
+      "received_service": true,
+      "found_in_registry": false,
+      "review_revision": 1
+    },
+    {
+      "audit_id": "audit-25",
+      "frame_id": "frame-mountain-summer",
+      "selection_probability": 0.2,
+      "received_service": true,
+      "found_in_registry": true,
+      "review_revision": 1
+    },
+    {
+      "audit_id": "audit-26",
+      "frame_id": "frame-town-spring",
+      "selection_probability": 0.2,
+      "received_service": true,
+      "found_in_registry": true,
+      "review_revision": 1
+    },
+    {
+      "audit_id": "audit-27",
+      "frame_id": "frame-town-summer",
+      "selection_probability": 0.4,
+      "received_service": true,
+      "found_in_registry": true,
+      "review_revision": 1
+    },
+    {
+      "audit_id": "audit-28",
+      "frame_id": "frame-mountain-spring",
+      "selection_probability": 0.2,
+      "received_service": true,
+      "found_in_registry": false,
+      "review_revision": 1
+    },
+    {
+      "audit_id": "audit-29",
+      "frame_id": "frame-mountain-summer",
+      "selection_probability": 0.2,
+      "received_service": true,
+      "found_in_registry": true,
+      "review_revision": 1
+    },
+    {
+      "audit_id": "audit-30",
+      "frame_id": "frame-town-spring",
+      "selection_probability": 0.4,
+      "received_service": true,
+      "found_in_registry": true,
+      "review_revision": 1
+    },
+    {
+      "audit_id": "audit-31",
+      "frame_id": "frame-town-summer",
+      "selection_probability": 0.2,
+      "received_service": true,
+      "found_in_registry": true,
+      "review_revision": 1
+    }
+  ],
+  "followup_audits": [
+    {
+      "audit_id": "new-audit",
+      "frame_id": "frame-mountain-spring",
+      "selection_probability": 0.3,
+      "received_service": true,
+      "found_in_registry": false,
+      "review_revision": 1
+    }
+  ],
+  "audit_budget": 12,
+  "frame_caps": {
+    "frame-mountain-spring": 5,
+    "frame-mountain-summer": 5,
+    "frame-town-spring": 5,
+    "frame-town-summer": 5
+  }
+}
