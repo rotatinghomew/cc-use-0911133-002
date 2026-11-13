@@ -11,6 +11,7 @@
 ```bash
 python3 -m unittest discover -s tests/registry_batches -v
 python3 -m unittest discover -s tests/analysis_context -v
+python3 -m unittest discover -s tests/completeness -v
 python3 -m compileall -q registry_delta_hub tests scripts
 ```
 
@@ -18,9 +19,15 @@ python3 -m compileall -q registry_delta_hub tests scripts
 
 ```bash
 python3 -m registry_delta_hub.console.run  fixtures/demo.json --db /tmp/registry_delta_hub-demo.sqlite3
+python3 -m registry_delta_hub.completeness fixtures/completeness.json --output /tmp/registry-completeness
 python3 scripts/check_project.py
 ```
 
+登记完整性分析会写出 `report.md`（中文报告）、`summary.json`（机器摘要）与
+`payload.json`（完整证据）。它输出的是资料完整性证据与补录建议，不是服务资格结论；
+原有 `console.run` 登记发布流程保持不变。
+
 `check_project.py` 串行执行测试、编译和真实业务入口，将本次业务输出完整打印到终端；状态文件使用独立临时目录，重复运行不沿用上次状态。
 
-批量分析资料位于 `fixtures/completeness.json`，字段含义见 `docs/data.md`。它与当前单笔流程的输入格式不同，不能直接交给原来的入口处理。
+批量分析资料位于 `fixtures/completeness.json`，字段含义见 `docs/data.md`。它与当前单笔流程的输入格式不同，不能直接交给原来的入口处理，请使用
+`registry_delta_hub.completeness`。

@@ -15,6 +15,7 @@ def main() -> int:
     commands = [
         [sys.executable, "-m", "unittest", "discover", "-s", config["tests"], "-v"],
         [sys.executable, "-m", "unittest", "discover", "-s", "tests/analysis_context", "-v"],
+        [sys.executable, "-m", "unittest", "discover", "-s", "tests/completeness", "-v"],
         [sys.executable, "-m", "compileall", "-q", config["package"], "tests", "scripts"],
     ]
     for command in commands:
@@ -32,6 +33,19 @@ def main() -> int:
         if not isinstance(response, dict) or not response:
             raise RuntimeError("服务没有输出有效结果")
         print(json.dumps(response, ensure_ascii=False, sort_keys=True), flush=True)
+    with tempfile.TemporaryDirectory(prefix="completeness-smoke-") as directory:
+        command = [
+            sys.executable, "-m", "registry_delta_hub.completeness",
+            "fixtures/completeness.json", "--output", directory, "--json",
+        ]
+        print("执行：", " ".join(command), flush=True)
+        result = subprocess.run(command, cwd=root, capture_output=True, text=True, check=True, timeout=30)
+        summary = json.loads(result.stdout)
+        if not isinstance(summary, dict) or not summary.get("method_checks_passed"):
+            raise RuntimeError("完整性分析方法自检未通过")
+        if not Path(directory, "report.md").exists():
+            raise RuntimeError("完整性分析没有生成报告")
+        print(json.dumps(summary, ensure_ascii=False, sort_keys=True), flush=True)
     print(json.dumps({"结果": "通过", "耗时秒": round(time.monotonic() - started, 3)}, ensure_ascii=False))
     return 0
 
